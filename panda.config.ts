@@ -13,7 +13,7 @@ export default defineConfig({
   exclude: [],
   include: ['./src/**/*.{ts,tsx}'],
   lightningcss: true,
-  polyfill: true,
+  // polyfill: true,
   shorthands: false,
   jsxFramework: 'react',
   jsxStyleProps: 'minimal',
